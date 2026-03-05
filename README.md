@@ -11,3 +11,9 @@ Esta es la imagen del commit ya creado y abierto en modo de solo lector,el tag v
 
 Esta es la imagen en la cual hacemos y usamos el origin para y el push para crearlo y cogemos la url del repo para que se conecten
 <img width="1108" height="617" alt="image" src="https://github.com/user-attachments/assets/27936fc0-277f-46be-8a8c-a36be8f7d823" />
+
+
+fichero2.txt creado
+<img width="1111" height="619" alt="image" src="https://github.com/user-attachments/assets/484f0018-3bac-4f20-bf86-7265ccc8c689" />
+
+rama v0.2
