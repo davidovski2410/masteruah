@@ -21,3 +21,10 @@ fichero2.txt creado
 
 
 ## Merge directo
+En este hemos preparado primero el master luego el v0.2 y luego comprobamos si esta en master y usamos el merge
+<img width="1096" height="614" alt="image" src="https://github.com/user-attachments/assets/10ed254b-ac0d-4410-a9bb-9eaaec1e755b" />
+
+## Listado de ramas
+Nos pide hacer un branch --merge y un branch --no-merge 
+<img width="1103" height="121" alt="image" src="https://github.com/user-attachments/assets/2603800f-e76b-405d-a161-ca3abc701088" />
+## Arreglar conflicto
