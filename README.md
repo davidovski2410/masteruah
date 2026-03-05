@@ -9,3 +9,5 @@ Esta es la imagen del commit ya creado y abierto en modo de solo lector,el tag v
 <img width="1102" height="624" alt="image" src="https://github.com/user-attachments/assets/3804aa93-a2ae-429e-961c-9c83cf8e1d8d" />
 
 
+Esta es la imagen en la cual hacemos y usamos el origin para y el push para crearlo y cogemos la url del repo para que se conecten
+<img width="1108" height="617" alt="image" src="https://github.com/user-attachments/assets/27936fc0-277f-46be-8a8c-a36be8f7d823" />
