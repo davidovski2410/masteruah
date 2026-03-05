@@ -17,3 +17,4 @@ fichero2.txt creado
 <img width="1111" height="619" alt="image" src="https://github.com/user-attachments/assets/484f0018-3bac-4f20-bf86-7265ccc8c689" />
 
 rama v0.2
+<img width="1104" height="500" alt="image" src="https://github.com/user-attachments/assets/71869b27-379e-4281-99aa-4cacccdf83f5" />
