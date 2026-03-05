@@ -16,5 +16,8 @@ Esta es la imagen en la cual hacemos y usamos el origin para y el push para crea
 fichero2.txt creado
 <img width="1111" height="619" alt="image" src="https://github.com/user-attachments/assets/484f0018-3bac-4f20-bf86-7265ccc8c689" />
 
-rama v0.2
+## Añadir fichero 1.txt
 <img width="1104" height="500" alt="image" src="https://github.com/user-attachments/assets/71869b27-379e-4281-99aa-4cacccdf83f5" />
+
+
+## Merge directo
